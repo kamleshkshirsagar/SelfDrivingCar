@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce6d4cb-f92c-42be-bdb6-1aa0cba60cd9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CarND-Alexnet-Feature-Extraction" afterPath="$PROJECT_DIR$/CarND-Alexnet-Feature-Extraction" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CarND-LeNet-Lab" afterPath="$PROJECT_DIR$/CarND-LeNet-Lab" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/CarND-Traffic-Sign-Classifier-Project" afterPath="$PROJECT_DIR$/Project/CarND-Traffic-Sign-Classifier-Project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SelfDrivingCar.iml" afterPath="$PROJECT_DIR$/.idea/SelfDrivingCar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
